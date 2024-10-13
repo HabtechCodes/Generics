@@ -1,0 +1,5 @@
+<root>
+    <item name='com.sun.security.ntlm.Server byte[] type2(byte[], byte[])'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
